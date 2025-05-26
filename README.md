@@ -6,4 +6,4 @@ Além desses, também serão adicionados outros projetos alinhados aos meus inte
 *This repository contains personal projects based on assignments developed during my Computer Science undergraduate studies — including improvements, rewrites, or more complete versions focused on hands-on learning.  
 In addition to those, I will also include other projects based on my personal interests and the fields I aim to work in professionally.
 
-## 📁 Conteúdo/Content
+## 📁 Conteúdo / Content
